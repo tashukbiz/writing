@@ -19,19 +19,19 @@ Let's work together to create content that speaks to your audience, evokes emoti
 I've got you covered with a range of essential services. Here are the key services I provide:
 
 
-1. Blog Post Creation:
+1. __Blog Post Creation__:
     - Engaging and informative blog posts that your audience will love.
     - Thorough research on the topic to make sure your content is accurate and on point.
     - Optimizing your posts for search engines.
 
 
-2. Website Content Development:
+2. __Website Content Development__:
     - Compelling website content that showcases your brand's personality and values.
     - Clear and concise writing that conveys your message effectively.
     - Plus, I'll make sure your website is user-friendly and keeps people hooked.
 
 
-3. Copywriting:
+3. __Copywriting__:
     - Crafting persuasive copy that drives conversions and gets results.
     - Attention to grammar, style, and tone to maintain a professional image.
 
