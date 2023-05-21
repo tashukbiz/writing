@@ -3,8 +3,8 @@ title: Tatiana
 header: Freelance content writer
 layout: main
 ---
-![Tatiana](assets/photo.jgp)
 From childhood hobby to professional career
+![Tatiana](assets/photo.jgp)
 
 ## About me
 Hi, my name is __Tatiana__, and I'm so excited about the world of content writing. Writing has been a part of my life ever since I was a child, and it has always fascinated me. From creating stories to maintaining my personal journal, words have been my way of expressing myself and sharing my thoughts with others.
