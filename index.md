@@ -1,5 +1,4 @@
 ---
-title: Freelance content writer - Tatiana
 header: Freelance content writer
 layout: main
 ---
