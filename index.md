@@ -1,8 +1,9 @@
 ---
-title: Home
-permalink: /
+title: Tatiana
+header: Freelance content writer
+layout: main
 ---
-# Freelance Content Writer
+![Tatiana](assets/photo.jgp)
 From childhood hobby to professional career
 
 ## About me
