@@ -1,3 +1,7 @@
+---
+title: Home
+permalink: /
+---
 # Freelance Content Writer
 From childhood hobby to professional career
 
