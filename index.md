@@ -37,13 +37,18 @@ I've got you covered with a range of essential services. Here are the key servic
 
 These services lay a solid foundation for your content needs, helping you establish an engaging online presence and connect with your audience. As a beginner content writer, my goal is to deliver top-notch work and ensure that the writing reflects your unique brand voice.
 
-## Examples of my work
+## Portfolio
 For the samples of my work please refer to the following posts:
 {% for post in site.posts %}
+
+---
+
 ### {{post.title}}
 
 {{post.excerpt}}
 [read more]({{post.url}})
+
+---
 {% endfor %}
 
 ## Contact me
