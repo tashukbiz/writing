@@ -41,14 +41,17 @@ These services lay a solid foundation for your content needs, helping you establ
 For the samples of my work please refer to the following posts:
 {% for post in site.posts %}
 
----
-
 ### {{post.title}}
 
 {{post.excerpt}}
+
 [read more]({{post.url}})
 
+{%- if forloop.last == false %}
+
 ---
+
+{% endif -%}
 {% endfor %}
 
 ## Contact me
