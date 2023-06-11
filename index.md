@@ -40,4 +40,4 @@ These services lay a solid foundation for your content needs, helping you establ
 ## Contact me
 Ready to bring your content to life?
 
-Email me at [tashukwrite@yahoo.com](mailto:tashukwrite@yahoo.com)
+Email me at [{{ site.author.email }}](mailto:{{ site.author.email }})
