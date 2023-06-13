@@ -6,13 +6,20 @@ layout: main
 From childhood hobby to professional career
 
 ## About me
-Hi, my name is __Tatiana__, and I'm so excited about the world of content writing. Writing has been a part of my life ever since I was a child, and it has always fascinated me. From creating stories to maintaining my personal journal, words have been my way of expressing myself and sharing my thoughts with others.
+Hi, I’m __Tatiana__, your __content writer__ with User Experience Design background.
+I learned how to write and read when I was 5 years old; since then, it’s been my biggest passion. From creating stories to maintaining my personal journal, words have been my way of expressing myself and sharing my thoughts with others.
+Recently, I’ve decided to combine my skills and passion with how to earn money. 
+I approach every project with enthusiasm and a commitment to deliver __high-quality work__. 
 
-Although I'm just starting as a content writer, my passion for writing is as strong as ever. I believe in the power of words to captivate, inspire, and connect with people on a deeper level. While I may not have extensive professional experience yet, I'm dedicated to continuously improving my skills and expanding my knowledge in the world of content creation.
-I approach every project with enthusiasm and a commitment to deliver high-quality work. I believe in the importance of understanding the target audience and conducting thorough research to ensure that the content I create resonates with them. My goal is to craft engaging and tailored pieces that make a lasting impact.
+As a UX designer, I understand the importance of tailoring communication to different audiences. I leverage my knowledge of user analysis to create texts that resonate with specific __target audiences__.
 
-I'm excited to embark on this journey and collaborate with individuals and businesses alike. Whether you need compelling blog posts, captivating website content, or engaging social media material, I'm here to bring your ideas to life through the power of the written word.
-Let's work together to create content that speaks to your audience, evokes emotion, and achieves your desired outcomes. I can't wait to get started!
+I complement my innate talent with continuous learning, diving into books by writing experts and taking courses like the Location Rebel Academy by Sean Ogle.
+
+Besides writing, I have a passion for dance, essential oils, and travel. I've explored 17 countries with my daughter who's just 5 years old. I've gained loads of knowledge in these areas too. You can read my article on traveling with a young child in the Portfolio section below, but I can write texts for any area. 
+
+I’m excited to embark on this journey and collaborate with __individuals__ and __businesses__ alike. Whether you need compelling blog posts, captivating website content, or engaging social media material, I’m here to bring your ideas to life through the power of the written word. Let’s work together to create content that speaks to your audience, evokes emotion, and achieves your desired outcomes. I can’t wait to get started!
+
+
 
 ## Services
 I've got you covered with a range of essential services. Here are the key services I provide:
