@@ -8,7 +8,7 @@ From childhood hobby to professional career
 ## About me
 Hi, I’m __Tatiana__, your __content writer__ with User Experience Design background.
 I learned how to write and read when I was 5 years old; since then, it’s been my biggest passion. From creating stories to maintaining my personal journal, words have been my way of expressing myself and sharing my thoughts with others.
-Recently, I’ve decided to combine my skills and passion with how to earn money. 
+Recently, I’ve decided to combine my skills and passion with generating an income and started my career at content writing. 
 I approach every project with enthusiasm and a commitment to deliver __high-quality work__. 
 
 As a UX designer, I understand the importance of tailoring communication to different audiences. I leverage my knowledge of user analysis to create texts that resonate with specific __target audiences__.
