@@ -33,9 +33,10 @@ ____
 
 
 ## A little bit about me
+From childhood hobby to professional career
 
 ![Tatiana](./assets/photo.jpg)
-From childhood hobby to professional career
+
 
 Hi there,
 
