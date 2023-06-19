@@ -4,7 +4,6 @@ layout: main
 ---
 
 ## Here are the key services I provide
-I've got you covered with a range of essential services. Here are the key services I provide:
 
 
 1. __Blog Post Creation__:
